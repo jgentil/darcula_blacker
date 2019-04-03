@@ -5,8 +5,8 @@
   "editorScheme": "/darcula_blacker.xml",
   "ui": {
     "Tree": {
-      "background": "#000000"
+      "background": "#171717"
     },
-    "Table.background": "#000000"
+    "Table.background": "#171717"
   }
 }

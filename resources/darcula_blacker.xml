@@ -3,11 +3,11 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="0" />
+        <option name="BACKGROUND" value="171717" />
       </value>
     </option>
   </attributes>
   <colors>
-    <option name="CARET_ROW_COLOR" value="1d1d1d" />
+    <option name="CARET_ROW_COLOR" value="222222" />
   </colors>
 </scheme>
