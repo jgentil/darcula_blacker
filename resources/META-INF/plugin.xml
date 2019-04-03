@@ -1,8 +1,8 @@
 <idea-plugin>
-  <id>com.your.company.unique.plugin.id</id>
+  <id>com.jgentil.theme.darcula_blacker</id>
   <name>Darcula Blacker</name>
   <version>1.0</version>
-  <vendor email="plugins@dontemailme.sebistar.net" url="http://github.com/users/jgentil/"></vendor>
+  <vendor email="jgentil@sebistar.net" url="https://github.com/jgentil/darcula_blacker"></vendor>
 
   <description><![CDATA[
       It's like Darcula but with black backgrounds on things.
