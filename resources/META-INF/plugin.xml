@@ -1,0 +1,34 @@
+<idea-plugin>
+  <id>com.your.company.unique.plugin.id</id>
+  <name>Darcula Blacker</name>
+  <version>1.0</version>
+  <vendor email="plugins@dontemailme.sebistar.net" url="http://github.com/users/jgentil/"></vendor>
+
+  <description><![CDATA[
+      It's like Darcula but with black backgrounds on things.
+    ]]></description>
+
+  <change-notes><![CDATA[
+      Version 1:  I changed the backgrounds to black.  I probably missed a bunch of them.
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <!-- uncomment to enable plugin in all products
+  <depends>com.intellij.modules.lang</depends>
+  -->
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="20e66b18-92fc-41ef-ba6d-4e80e621c3e4" path="/darcula_blacker.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>

@@ -1,0 +1,13 @@
+<scheme name="Darcula (Blacker)" version="142" parent_scheme="Darcula">
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="a9b7c6" />
+        <option name="BACKGROUND" value="0" />
+      </value>
+    </option>
+  </attributes>
+  <colors>
+    <option name="CARET_ROW_COLOR" value="1d1d1d" />
+  </colors>
+</scheme>

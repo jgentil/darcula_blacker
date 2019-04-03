@@ -1,0 +1,12 @@
+{
+  "name": "Darcula (Blacker)",
+  "dark": true,
+  "author": "",
+  "editorScheme": "/darcula_blacker.xml",
+  "ui": {
+    "Tree": {
+      "background": "#000000"
+    },
+    "Table.background": "#000000"
+  }
+}
