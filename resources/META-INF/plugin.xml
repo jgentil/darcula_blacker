@@ -2,7 +2,7 @@
   <id>com.jgentil.theme.darcula_blacker</id>
   <name>Darcula (blacker)</name>
   <version>1.0</version>
-  <vendor email="jgentil@sebistar.net" url="https://github.com/jgentil/darcula_blacker"/>
+  <vendor email="jgentil@sebistar.net" url="https://github.com/jgentil/darcula_blacker">Jon-Pierre Gentil</vendor>
 
   <description><![CDATA[
       It's like Darcula but with black backgrounds on things.
