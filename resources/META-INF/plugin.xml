@@ -7,8 +7,7 @@
   <description>Extends the Darcula UI Theme to have black backgrounds in certain areas instead of grey.</description>
 
   <change-notes><![CDATA[
-      1.0 - Initial Release.  I changed the backgrounds to black.  I probably missed a bunch of them.
-      1.1 - Added some icons!  Changed the description too.  Added a few more black backgrounds for coverage.
+      Added some icons!  Changed the description too.  Added a few more black backgrounds for coverage.
     ]]>
   </change-notes>
 
