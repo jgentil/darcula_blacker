@@ -1,12 +1,14 @@
 {
   "name": "Darcula (blacker)",
   "dark": true,
-  "author": "",
+  "author": "Jon-Pierre Gentil",
   "editorScheme": "/darcula_blacker.xml",
   "ui": {
-    "Tree": {
-      "background": "#171717"
-    },
-    "Table.background": "#171717"
+    "Tree.background": "#171717",
+    "Table.background": "#171717",
+    "SidePanel.background": "#171717",
+    "TitlePane.background": "#171717",
+    "List.background": "#171717",
+    "Editor.background": "#171717"
   }
 }

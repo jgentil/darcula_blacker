@@ -1,15 +1,14 @@
 <idea-plugin>
   <id>com.jgentil.theme.darcula_blacker</id>
   <name>Darcula (blacker)</name>
-  <version>1.0</version>
+  <version>1.1</version>
   <vendor email="jgentil@sebistar.net" url="https://github.com/jgentil/darcula_blacker">Jon-Pierre Gentil</vendor>
 
-  <description><![CDATA[
-      It's like Darcula but with black backgrounds on things.
-    ]]></description>
+  <description>Extends the Darcula UI Theme to have black backgrounds in certain areas instead of grey.</description>
 
   <change-notes><![CDATA[
-      Version 1:  I changed the backgrounds to black.  I probably missed a bunch of them.
+      1.0 - Initial Release.  I changed the backgrounds to black.  I probably missed a bunch of them.
+      1.1 - Added some icons!  Changed the description too.  Added a few more black backgrounds for coverage.
     ]]>
   </change-notes>
 

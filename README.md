@@ -18,4 +18,3 @@ Because people who make themes without screenshots are bad people.
 Loosely inspired by the [ColorIde](https://github.com/dmalch/ColorIde) plugin by @dmalch (that I desperately held onto 
 for so long after it's deprecation until custom theme support was implemented in 2019.1) and a less extreme version of the 
 [jake-theme](https://github.com/jakecoffman/jake-theme) by @jakecoffman.
- 
